@@ -1,0 +1,16 @@
+d:\my documents\visual studio 2010\Projects\wxPayDemo\wxPayDemo\obj\Debug\wxPayDemo.csprojResolveAssemblyReference.cache
+d:\my documents\visual studio 2010\Projects\wxPayDemo\wxPayDemo\bin\wxPayDemo.dll
+d:\my documents\visual studio 2010\Projects\wxPayDemo\wxPayDemo\bin\wxPayDemo.pdb
+d:\my documents\visual studio 2010\Projects\wxPayDemo\wxPayDemo\bin\EntityFramework.dll
+d:\my documents\visual studio 2010\Projects\wxPayDemo\wxPayDemo\bin\Senparc.Weixin.MP.dll
+d:\my documents\visual studio 2010\Projects\wxPayDemo\wxPayDemo\bin\EntityFramework.xml
+d:\my documents\visual studio 2010\Projects\wxPayDemo\wxPayDemo\obj\Debug\wxPayDemo.dll
+d:\my documents\visual studio 2010\Projects\wxPayDemo\wxPayDemo\obj\Debug\wxPayDemo.pdb
+E:\资料\源码资料\Net\C#版微信支付V3.3.6Demo\wxPayDemo\wxPayDemo\bin\wxPayDemo.dll
+E:\资料\源码资料\Net\C#版微信支付V3.3.6Demo\wxPayDemo\wxPayDemo\bin\wxPayDemo.pdb
+E:\资料\源码资料\Net\C#版微信支付V3.3.6Demo\wxPayDemo\wxPayDemo\bin\EntityFramework.dll
+E:\资料\源码资料\Net\C#版微信支付V3.3.6Demo\wxPayDemo\wxPayDemo\bin\Senparc.Weixin.MP.dll
+E:\资料\源码资料\Net\C#版微信支付V3.3.6Demo\wxPayDemo\wxPayDemo\bin\EntityFramework.xml
+E:\资料\源码资料\Net\C#版微信支付V3.3.6Demo\wxPayDemo\wxPayDemo\obj\Debug\wxPayDemo.csprojResolveAssemblyReference.cache
+E:\资料\源码资料\Net\C#版微信支付V3.3.6Demo\wxPayDemo\wxPayDemo\obj\Debug\wxPayDemo.dll
+E:\资料\源码资料\Net\C#版微信支付V3.3.6Demo\wxPayDemo\wxPayDemo\obj\Debug\wxPayDemo.pdb
